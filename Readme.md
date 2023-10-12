@@ -2,8 +2,8 @@ Project Links -
 
 1. YouTube Clone -
 
-Github: https://github.com/GurpreetSingh-Projects/Youtube-clone
-Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
+#Github: https://github.com/GurpreetSingh-Projects/Youtube-clone
+#Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
 
 2. Payment Integrated Website -
 
@@ -39,3 +39,15 @@ Website: https://gurpreetsingh-projects.github.io/Rock-Paper-Scissors-Game
 
 Github: https://github.com/GurpreetSingh-Projects/React/tree/main/socialmediaapp
 Website: wip
+
+9. Baby Name Finder Project -
+
+Github: https://github.com/GurpreetSingh-Projects/BabyNameFinder---Project
+
+10. Wordplay - 
+
+Github: https://github.com/GurpreetSingh-Projects/WordPlay
+
+11. Caesar-Cipher-based-Encryptor -
+
+Github: https://github.com/GurpreetSingh-Projects/Caesar-Cipher-based-Encryptor
