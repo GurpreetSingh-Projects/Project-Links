@@ -2,8 +2,8 @@ Project Links -
 
 1. YouTube Clone -
 
-#Github: https://github.com/GurpreetSingh-Projects/Youtube-clone
-#Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
+Github: https://github.com/GurpreetSingh-Projects/Youtube-clone
+Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
 
 2. Payment Integrated Website -
 
