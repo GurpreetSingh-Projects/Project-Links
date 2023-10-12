@@ -1,6 +1,6 @@
 Project Links -
 
-1. YouTube Clone -
+1. YouTube Clone Website -
 
 Github: https://github.com/GurpreetSingh-Projects/Youtube-clone
 Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
@@ -10,22 +10,22 @@ Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
 Github: https://github.com/GurpreetSingh-Projects/Payment_integrated_website
 Website: https://gurpreetsingh-projects.github.io/Payment_integrated_website
 
-3. NordVpn Clone -
+3. NordVpn Clone Website-
 
 Github: https://github.com/GurpreetSingh-Projects/CodSoft-Projects/tree/main/NordVPN%20Clone#demo
 Website: https://gurpreetsingh-projects.github.io/CodSoft-Projects/NordVPN%20Clone/index.html
 
-4. Personal Portfolio -
+4. Personal Portfolio Website -
 
 Github: https://github.com/GurpreetSingh-Projects/CodSoft-Projects/tree/main/Personal%20Portfolio
 Website: https://gurpreetsingh-projects.github.io/CodSoft-Projects/Personal%20Portfolio/index
 
-5. Amazon Clone -
+5. Amazon Clone Website -
 
 Github:
 Website: https://gurpreetsingh-projects.github.io/Amazon-clone/
 
-6. Responsive Calculator -
+6. Responsive Calculator Website -
 
 Github: https://github.com/GurpreetSingh-Projects/CodSoft-Projects/tree/main/Calculator
 Website: https://gurpreetsingh-projects.github.io/CodSoft-Projects/Calculator/index.html
