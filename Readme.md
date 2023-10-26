@@ -3,7 +3,6 @@ Project Links -
 1. YouTube Clone Website -
 
 Github: https://github.com/GurpreetSingh-Projects/Youtube-clone
-
 Website: https://gurpreetsingh-projects.github.io/Youtube-clone/
 
 2. Payment Integration Project Website -
@@ -23,7 +22,7 @@ Website: https://gurpreetsingh-projects.github.io/CodSoft-Projects/Personal%20Po
 
 5. Amazon Clone Website -
 
-Github:
+Github: https://github.com/GurpreetSingh-Projects/Amazon-clone
 Website: https://gurpreetsingh-projects.github.io/Amazon-clone/
 
 6. Responsive Calculator Website -
