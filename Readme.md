@@ -51,3 +51,7 @@ Github: https://github.com/GurpreetSingh-Projects/WordPlay
 11. Caesar-Cipher-based-Encryptor -
 
 Github: https://github.com/GurpreetSingh-Projects/Caesar-Cipher-based-Encryptor
+
+12. Android App Development -
+
+Github: https://github.com/GurpreetSingh-Projects/Android-Projects
